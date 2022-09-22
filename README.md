@@ -19,8 +19,8 @@ ree-sitter-swift-version-issue/node_modules/tree-sitter/index.js:259
               ^
 
 RangeError: Incompatible language version. Compatible range: 13 - 13. Got: 14
-    at Parser.setLanguage (/Users/juspears/Documents/GitHub/tree-sitter-swift-version-issue/node_modules/tree-sitter/index.js:259:15)
-    at Object.<anonymous> (/Users/juspears/Documents/GitHub/tree-sitter-swift-version-issue/index.js:5:8)
+    at Parser.setLanguage (/workspace/GitHub/tree-sitter-swift-version-issue/node_modules/tree-sitter/index.js:259:15)
+    at Object.<anonymous> (/workspace/GitHub/tree-sitter-swift-version-issue/index.js:5:8)
     at Module._compile (node:internal/modules/cjs/loader:1101:14)
     at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
     at Module.load (node:internal/modules/cjs/loader:981:32)
