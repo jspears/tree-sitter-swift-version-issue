@@ -1,0 +1,12 @@
+{
+  "name": "tree-sitter-swift-version-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jspears/tree-sitter-swift-version-issue.git",
+  "author": "Justin Spears <juspears@paypal.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tree-sitter": "^0.20.0",
+    "tree-sitter-swift": "^0.3.3"
+  }
+}
